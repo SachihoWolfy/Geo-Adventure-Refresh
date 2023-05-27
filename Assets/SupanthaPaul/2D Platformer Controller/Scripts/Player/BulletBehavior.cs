@@ -10,6 +10,7 @@ public class BulletBehavior : MonoBehaviour
 
     private Vector2 direction; // Direction the bullet should move in
     private float traveledDistance; // Distance the bullet has traveled so far
+    public int damage = 2;
 
     private void Start()
     {
@@ -42,7 +43,7 @@ public class BulletBehavior : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         // If the bullet collides with something on the whatToHit layer, destroy it
-        if (collision.tag.Equals("Ground")||collision.tag.Equals("Enemy"))
+        if (collision.tag.Equals("Ground"))
         {
             Destroy(gameObject);
         }
