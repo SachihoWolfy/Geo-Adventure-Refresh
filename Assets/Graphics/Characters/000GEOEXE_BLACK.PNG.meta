@@ -1,0 +1,2008 @@
+fileFormatVersion: 2
+guid: 93eb041972f6c16499b46a509b3fcce8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd719c4dbaeef6e4b8f01e7d2f017306
+      internalID: -1794455035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 322
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36fa3e076505da4d89d15264f18a4c8
+      internalID: 738531777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 322
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7b9d09f7a6d274781188604d1638c9
+      internalID: -1136216292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 322
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce74a7db41939c419289537f6e2ed41
+      internalID: -691319695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 322
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9662e88a2fbff24691021b5667cad05
+      internalID: -458016463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 322
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab4619c3cd628f43b4578a661054488
+      internalID: 532037462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 322
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ced10b0f28553f4b91970666d8c088e
+      internalID: 1140811746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 322
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b887a273fcc6344f8d1a2f04b0db205
+      internalID: -796799515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 322
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b856798601607844db88cff6bc756033
+      internalID: 1917738141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 322
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f69ee197231df4daf8337c996d1e87
+      internalID: -785973808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_10
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 322
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f117fc9cbd66db24b82120f26954c497
+      internalID: -230776239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 322
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489002b8864c6d64baf112ff9d93f63b
+      internalID: 945946498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3638bfb5360ca224cac4e8f90f2395c0
+      internalID: 745549096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 276
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9541a56f4f8a3b44922315fcb73feca
+      internalID: -1395909835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 276
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d526fa7f7999145bd7ea40719fc503
+      internalID: -163207521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 276
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eccdc98233fd4e479c03d18657f3197
+      internalID: -614745290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 276
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b3410995d0c2845ac34253aa9e4100
+      internalID: 1888016950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 276
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04889d5c84426704c897f9e5ac49bfef
+      internalID: 285485918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_18
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 276
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b8c5e5411cf764f949c88f5579a68a
+      internalID: 330047552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 276
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25fb5a74ad625542a7b2c66759fec14
+      internalID: -623241979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 276
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df05d793b53905f43a81cb7843b306ac
+      internalID: -193487919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_21
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 276
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb7c07e4c8db41478ac856e47401276
+      internalID: -575347323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_22
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 276
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45c49dcd177b6c47af88a326f8e1ebb
+      internalID: 1895423252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_23
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 276
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047eb4879eec5934dae920dfddd55081
+      internalID: 434264197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb0599a809015a4f898321f41fe3f57
+      internalID: -104711508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 230
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7e3a98325e15b4390c413508f8c726
+      internalID: 1815678027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_26
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 230
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88742650c1f6696469116d474c7c50aa
+      internalID: 1589772174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_27
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 230
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c7b1a43d9bab745827ebbed3d0960f
+      internalID: 1455624989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_28
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 230
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156b75c1de7dacb4a969ce4677018f3f
+      internalID: -860134315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 230
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26428e3163c74a4cb8d5a045d884985
+      internalID: 1328891799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_30
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 230
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650bd36856d1fa245bc954aa9d8e329b
+      internalID: -251788133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_31
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 230
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eee068281ea59e4e940f9ef28ca1e58
+      internalID: -1579751348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_32
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 230
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c23554f045cf941b67f909c9517942
+      internalID: -2070400451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_33
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 230
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d44bca3350784e45b31deab6ba47014
+      internalID: -818811942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_34
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 230
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabc513309e6a454ab52ea19c72a5c68
+      internalID: -948939854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_35
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 230
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1df38891c5338478713f398a007191
+      internalID: -700078853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0888ca195cde148499bb137721e31ffa
+      internalID: -738427222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 184
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589c1f8026eba02419396fb5ed25eb9f
+      internalID: -2135644928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_38
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 184
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badfd86d4396a6145a1e358ab360fc02
+      internalID: 1454130185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_39
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 184
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371f5bd1811a0f74292b83b13e71457a
+      internalID: -259759170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_40
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 184
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911943532a2f81041acb22d9a1c4b4cf
+      internalID: 168805448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_41
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 184
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3a24852a037cf4a9fcfd9f49b45597
+      internalID: -1592480533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_42
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 184
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567815f5f5d357c428635bccce07e4a2
+      internalID: 2114618616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_43
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 184
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a56414390837946ba93a919f20d883
+      internalID: -150929527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_44
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 184
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a0043720caebc4492a0ac8ed8a63a3
+      internalID: 1314242822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_45
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 184
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94a94c004f9724488b24b2b9946fd2a
+      internalID: 1276633286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_46
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 184
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f390e8a98243064491c0de79e746c22
+      internalID: 631508981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_47
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 184
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209653ec614d9d74d8b678c56011617e
+      internalID: -1279358373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d30e17556567b469e4fa4e3f8a4e0b
+      internalID: -1182798192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_49
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 138
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bb63e8092dcb5498747e41bd9e65b7
+      internalID: 95715259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_50
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 138
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d62af5290bf934468149ebdc6154d1e
+      internalID: -858204661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_51
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 138
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186fee5b78c99f747849016cbf5fd1ed
+      internalID: 1393422266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_52
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 138
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c10731c6d9f25047b874a761048291b
+      internalID: -1977878232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_53
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 138
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3f7fe03086cc846b135c54022e741c
+      internalID: -1559510588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457645c257add0b4abc48db5533f78ed
+      internalID: 1145520942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_61
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 92
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37f575e7ae08e74c998d960e9fcaf24
+      internalID: -2018418294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_62
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 92
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d910e2bc3b2cf4fa1dd0dc1b4242ef
+      internalID: -1989703232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 92
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d59eb82e9b92b941988e8dd1b7057ed
+      internalID: 1892777809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_64
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 92
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f472fbd5a5d9f0f49bb57b6991561b29
+      internalID: -1091657451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_65
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 92
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c62106c186466488551dc6ea90dc35
+      internalID: -956936062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_66
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 92
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0fc6c478972f74885221d059435511
+      internalID: 2122194547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_67
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 92
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3029b513e40874a8ae912334be864b
+      internalID: 1069698455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_68
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 92
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f6b457f7c0f9643ba7cb71e7dbdd56
+      internalID: -1160783718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_69
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 92
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85480f73d4183c6409992d351c63d917
+      internalID: 1310750060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_70
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 92
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebabc5a7cfd46174ba4e83154b86002b
+      internalID: 695490769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_71
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 92
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c735f6cd1558be4991806d226610f80
+      internalID: -1746454038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e666af2429ed9b48b14ebdce37d01c0
+      internalID: -1746972649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_73
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 46
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ae4347d0b81fc49ab393fa1fba04ce
+      internalID: 511102421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_74
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 46
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a96731402b3e34cba0019a5edab61e
+      internalID: -501817947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_75
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 46
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02cfb514df4ec0448ae9e01bde2ce5f
+      internalID: -2118908062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_76
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 46
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dee5129e5fd00429ffb8ca7ea69bf2
+      internalID: -11924547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_77
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 46
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b649a82f6be9063419dc2e6243497d1c
+      internalID: -11728464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_78
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 46
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0312ddcffe1c543b629f4812569a1b
+      internalID: -1291503043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_79
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 46
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33beebb462581674cbec0051283c54e9
+      internalID: -1051370673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_80
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 46
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91e044212df52d499649de537227b32
+      internalID: 860278272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_81
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 46
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63abbdd6ab260884db00010709d1b580
+      internalID: 539720933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_82
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 46
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3021a428a00874682a36cce5aa3848
+      internalID: 70264969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_83
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 46
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b3acda7b660b849b4706eba9987819
+      internalID: -1670847336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94618a9865f5b6446ba395161f53575d
+      internalID: 1588066060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_85
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a200b0ad6efcba847985e292d5911625
+      internalID: -1726796838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_86
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745090dcde849c646a6371f20ba725a0
+      internalID: 521371208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_87
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d83ddeeca3b9b4c909b9ba3ce62952
+      internalID: 1464877631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_88
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf81f64091bb1e4ba17a464f3422efb
+      internalID: -810484927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 000GEOEXE_BLACK_89
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4c51bfb4c86644fbd0817a73685fc1
+      internalID: 1353050478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      000GEOEXE_BLACK_87: 1464877631
+      000GEOEXE_BLACK_95: -485857425
+      000GEOEXE_BLACK_84: 1588066060
+      000GEOEXE_BLACK_14: -163207521
+      000GEOEXE_BLACK_43: -150929527
+      000GEOEXE_BLACK_2: -1136216292
+      000GEOEXE_BLACK_65: -956936062
+      000GEOEXE_BLACK_61: -2018418294
+      000GEOEXE_BLACK_6: 1140811746
+      000GEOEXE_BLACK_67: 1069698455
+      000GEOEXE_BLACK_88: -810484927
+      000GEOEXE_BLACK_76: -11924547
+      000GEOEXE_BLACK_18: 330047552
+      000GEOEXE_BLACK_94: 1479438116
+      000GEOEXE_BLACK_24: -104711508
+      000GEOEXE_BLACK_81: 539720933
+      000GEOEXE_BLACK_54: -590676829
+      000GEOEXE_BLACK_28: -860134315
+      000GEOEXE_BLACK_66: 2122194547
+      000GEOEXE_BLACK_72: -1746972649
+      000GEOEXE_BLACK_5: 532037462
+      000GEOEXE_BLACK_55: -2015346825
+      000GEOEXE_BLACK_64: -1091657451
+      000GEOEXE_BLACK_0: -1794455035
+      000GEOEXE_BLACK_45: 1276633286
+      000GEOEXE_BLACK_1: 738531777
+      000GEOEXE_BLACK_37: -2135644928
+      000GEOEXE_BLACK_33: -818811942
+      000GEOEXE_BLACK_59: -2011446772
+      000GEOEXE_BLACK_75: -2118908062
+      000GEOEXE_BLACK_11: 945946498
+      000GEOEXE_BLACK_21: -575347323
+      000GEOEXE_BLACK_7: -796799515
+      000GEOEXE_BLACK_63: 1892777809
+      000GEOEXE_BLACK_30: -251788133
+      000GEOEXE_BLACK_22: 1895423252
+      000GEOEXE_BLACK_42: 2114618616
+      000GEOEXE_BLACK_58: 1463696754
+      000GEOEXE_BLACK_35: -700078853
+      000GEOEXE_BLACK_80: 860278272
+      000GEOEXE_BLACK_69: 1310750060
+      000GEOEXE_BLACK_39: -259759170
+      000GEOEXE_BLACK_85: -1726796838
+      000GEOEXE_BLACK_86: 521371208
+      000GEOEXE_BLACK_15: -614745290
+      000GEOEXE_BLACK_44: 1314242822
+      000GEOEXE_BLACK_68: -1160783718
+      000GEOEXE_BLACK_36: -738427222
+      000GEOEXE_BLACK_48: -1182798192
+      000GEOEXE_BLACK_83: -1670847336
+      000GEOEXE_BLACK_32: -2070400451
+      000GEOEXE_BLACK_27: 1455624989
+      000GEOEXE_BLACK_93: 498180055
+      000GEOEXE_BLACK_4: -458016463
+      000GEOEXE_BLACK_92: 1761985549
+      000GEOEXE_BLACK_56: 906917444
+      000GEOEXE_BLACK_47: -1279358373
+      000GEOEXE_BLACK_70: 695490769
+      000GEOEXE_BLACK_49: 95715259
+      000GEOEXE_BLACK_26: 1589772174
+      000GEOEXE_BLACK_51: 1393422266
+      000GEOEXE_BLACK_20: -193487919
+      000GEOEXE_BLACK_78: -1291503043
+      000GEOEXE_BLACK_62: -1989703232
+      000GEOEXE_BLACK_10: -230776239
+      000GEOEXE_BLACK_12: 745549096
+      000GEOEXE_BLACK_38: 1454130185
+      000GEOEXE_BLACK_53: -1559510588
+      000GEOEXE_BLACK_9: -785973808
+      000GEOEXE_BLACK_31: -1579751348
+      000GEOEXE_BLACK_46: 631508981
+      000GEOEXE_BLACK_50: -858204661
+      000GEOEXE_BLACK_89: 1353050478
+      000GEOEXE_BLACK_17: 285485918
+      000GEOEXE_BLACK_73: 511102421
+      000GEOEXE_BLACK_74: -501817947
+      000GEOEXE_BLACK_8: 1917738141
+      000GEOEXE_BLACK_40: 168805448
+      000GEOEXE_BLACK_57: 355653345
+      000GEOEXE_BLACK_19: -623241979
+      000GEOEXE_BLACK_13: -1395909835
+      000GEOEXE_BLACK_52: -1977878232
+      000GEOEXE_BLACK_3: -691319695
+      000GEOEXE_BLACK_77: -11728464
+      000GEOEXE_BLACK_34: -948939854
+      000GEOEXE_BLACK_71: -1746454038
+      000GEOEXE_BLACK_60: 1145520942
+      000GEOEXE_BLACK_79: -1051370673
+      000GEOEXE_BLACK_90: 871719246
+      000GEOEXE_BLACK_29: 1328891799
+      000GEOEXE_BLACK_91: 1374737035
+      000GEOEXE_BLACK_82: 70264969
+      000GEOEXE_BLACK_41: -1592480533
+      000GEOEXE_BLACK_16: 1888016950
+      000GEOEXE_BLACK_23: 434264197
+      000GEOEXE_BLACK_25: 1815678027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
